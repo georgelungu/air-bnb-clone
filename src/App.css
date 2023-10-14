@@ -1,0 +1,40 @@
+/* .App {
+  
+} */
+
+.cards-wrapper{
+  display: flex;
+  justify-content: space-between; 
+}
+
+.card-1{
+  position: relative;
+  /* left: 20px; */
+}
+
+.card-2{
+  position: relative;
+  left: 30px;
+}
+
+.card-3{
+  position: relative;
+  left: 20px;
+}
+
+.image-3{
+  /* position: relative; */
+  width: 175px;
+  height: 235px;
+  left: 20px;
+}
+
+.paragraph{
+  position: relative;
+  right: 5px;
+}
+
+h1{
+  margin: 0;
+}
+

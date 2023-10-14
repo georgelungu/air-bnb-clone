@@ -1,0 +1,15 @@
+nav{
+    height: 50px;
+    /* background-color: blueviolet; */
+    padding: 6px 26px;
+    margin-bottom: 16px;
+    box-shadow: 0px 2.98px 7.45px rgba(0, 0, 0, 0.1);
+}
+
+.nav-logo{
+    width: 200px;
+    height: 35px;
+    padding-top: 5px;
+    margin-left: 0px;
+    max-width: 100px;
+}

@@ -1,0 +1,35 @@
+.card{
+    width: 175px;
+    position: relative;
+}
+
+.paragraph{
+    margin: 5px;
+    font-size: 14px;
+}
+
+.gray{
+    color: #918E9B;
+}
+.bold{
+    font-weight: 600;
+}
+
+.card-badge{
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    background-color: white;
+    padding: 5px 7px;
+    border-radius: 2px;
+    font-weight: bold;
+}
+
+/* .card-stats{
+    display: flex;
+    align-items: center;
+} */
+
+/* .image{
+    width: 100%;
+} */
