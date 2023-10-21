@@ -46,26 +46,10 @@ Git: You can download and install [Git](https://git-scm.com/), Node.js and npm: 
 
 Replace <repository_directory> with the name of the directory created when you cloned the repository.
 
-4. Install Dependencies
+4. Start the Project:
 
-    Use npm to install the project's dependencies. Run the following command:
-
-```bash
-  npm install
-```
-
-This command will read the package.json file in your project and install all the required packages.
-
-5. Start the Project:
-
-    Once the dependencies are installed, you can start your project by running the following command:
-
-```bash
-  npm run start
-```
-
-This command will execute the script specified in your package.json file to start your application.
-
+    Once the dependencies are installed, you can start your project by running the Live Server.
+   
 6. Access the Application:
 
     After running npm run start, your application should be up and running. Open a web browser and access it using the appropriate address and port (e.g., http://localhost:3000).
