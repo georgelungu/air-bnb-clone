@@ -1,70 +1,71 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# AIR-BNB CLONE
 
-## Available Scripts
+An Air BnB interface created as an exercise to deepen my understanding of CSS Flexbox and the basics of REACT.
 
-In the project directory, you can run:
 
-### `npm start`
+## Screenshots
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Page Screenshot](https://images4.imagebam.com/a5/51/7f/MEPME7I_o.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Demo
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[See the page here](https://air-bnb-clone-weld.vercel.app/)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Responsive Page
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Installation
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Prerequisites:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+    Before you begin, ensure that you have the following software installed on your system:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Git: You can download and install [Git](https://git-scm.com/), Node.js and npm: You can download and install [Node.js](https://nodejs.org/) which includes npm.
 
-## Learn More
+2. Clone the Repository
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+    Open your terminal or command prompt and navigate to the directory where you want to clone the repository. Then, use the following command to clone your repository:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+  git clone git@github.com:georgelungu/air-bnb-clone.git
+```
 
-### Code Splitting
+3. Navigate to the Project Directory:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+    Change your current directory to the newly cloned project's directory: 
+    
+```bash
+  cd <repository_directory>
+```
 
-### Analyzing the Bundle Size
+Replace <repository_directory> with the name of the directory created when you cloned the repository.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+4. Install Dependencies
 
-### Making a Progressive Web App
+    Use npm to install the project's dependencies. Run the following command:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```bash
+  npm install
+```
 
-### Advanced Configuration
+This command will read the package.json file in your project and install all the required packages.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+5. Start the Project:
 
-### Deployment
+    Once the dependencies are installed, you can start your project by running the following command:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```bash
+  npm run start
+```
 
-### `npm run build` fails to minify
+This command will execute the script specified in your package.json file to start your application.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+6. Access the Application:
+
+    After running npm run start, your application should be up and running. Open a web browser and access it using the appropriate address and port (e.g., http://localhost:3000).
